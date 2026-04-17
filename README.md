@@ -1,4 +1,4 @@
-#  Telecom Customer Churn Analysis
+#  Telecom  Churn Analysis
 
 ### Tools:
 Excel | SQL (SQLite) | Power BI | GitHub
