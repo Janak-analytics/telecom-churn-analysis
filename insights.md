@@ -5,7 +5,7 @@ Month-to-month customers churn at 42% vs 11% for one-year
 and 3% for two-year contracts.
 **Implication:** Contract conversion campaigns = top priority.
 
-### Insight 2: Revenue at Risk is $8.2M
+### Insight 2: Revenue at Risk is $8M
 1,869 churned customers = $8.2M in lost customer lifetime value.
 High-risk segment accounts for majority of this loss.
 
