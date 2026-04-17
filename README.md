@@ -47,13 +47,13 @@ and **which customers** to prioritize for retention.
   - Risk_Segment, Revenue_At_Risk, Churn_Reason_Category
 - Built 3 Pivot Tables with Slicers
 
-![Pivot Contract](screenshots/pivot_contract.png)
+![Pivot Contract](screenshots/pivot_contract.png.png)
 ![Pivot Revenue](screenshots/pivot_revenue.png)
 ![Pivot Reason](screenshots/pivot_churn_reason.png)
 
 ---
 
-## 🗄️ SQL Analysis ( 9 Queries)
+##  SQL Analysis ( 9 Queries)
 - Overall churn rate = 26.54%
 - Contract type breakdown (42% vs 11% vs 3%)
 - Revenue at risk by risk segment
@@ -61,13 +61,13 @@ and **which customers** to prioritize for retention.
 - Geographic churn hotspots by city
 - Retention priority customer list (Top 20)
 
-![SQL Query 2](screenshots/sql_q2_contract.png)
-![SQL Query 3](screenshots/sql_q3_revenue.png)
-![SQL Query 8](screenshots/sql_q8_city.png)
+![SQL Query 2](screenshots/sql_q2_contract_churn.png)
+![SQL Query 3](screenshots/sql_q3_revenue_risk.png)
+![SQL Query 8](screenshots/sql_q8_city_churn.png)
 
 ---
 
-## 📈 Power BI Dashboard (3 Pages)
+##  Power BI Dashboard (3 Pages)
 - **Page 1:** Churn Overview — KPI cards, donut chart,
   bar chart, slicer
 - **Page 2:** Risk & Revenue — Risk matrix,
@@ -81,7 +81,7 @@ and **which customers** to prioritize for retention.
 
 ---
 
-## 🎯 Business Recommendations
+##  Business Recommendations
 1. Convert month-to-month customers to annual plans
    with **15% first-year discount**
 2. Launch **tech support bundle** for Fiber optic customers
@@ -89,7 +89,7 @@ and **which customers** to prioritize for retention.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 - `data/` — Cleaned Excel and CSV files
 - `sql/` — All 9 SQL queries (churn_queries.sql)
 - `powerbi/` — Power BI dashboard (.pbix file)
