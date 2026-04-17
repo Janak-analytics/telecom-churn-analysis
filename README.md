@@ -32,7 +32,7 @@ and **which customers** to prioritize for retention.
 ---
 
 ##  Key Insights
--  **Revenue at Risk: $8.2M** in customer lifetime value lost
+-  **Revenue at Risk: $8M** in customer lifetime value lost
 -  Month-to-month churn = **42%** vs Two-year = only **3%**
 -  **#1 Churn Reason:** Attitude of support staff (192 customers)
 -  New customers **(0-12 months)** = highest churn risk group
