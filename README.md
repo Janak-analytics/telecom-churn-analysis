@@ -62,7 +62,7 @@ and **which customers** to prioritize for retention.
 - Retention priority customer list (Top 20)
 
 ![SQL Query 2](screenshots/sql_q2_contract_churn.png)
-![SQL Query 3](screenshots/sql_q3_revenue_risk.png)
+![SQL Query 3](screenshots/sql_q3revenue_risk.png)
 ![SQL_Query_6](screenshots/sql_q6_retention_list.png)
 ![SQL Query 8](screenshots/sql_q8_city_churn.png)
 
